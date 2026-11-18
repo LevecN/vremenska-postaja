@@ -1,2 +1,2 @@
 # vremenska-postaja
-Paket funkcije za delo z vremenskimi postajami
+Paket funkcij za delo z vremenskimi postajami
